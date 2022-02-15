@@ -1,0 +1,4 @@
+The App stores locally only username and password of mp calculations account created in the app for for easy log in.
+If a user decides to create and account, remote database also store user's email, only for purpose of resetting fotgotten password.
+
+Toys of Black Box.
